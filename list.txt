@@ -1,0 +1,760 @@
+States
+R: perlis
+K: kedah
+D: kelantan
+T: terengganu
+P: penang
+A: perak
+C: pahang
+B: selangor
+W: wp kuala lumpur
+N: negeri sembilan
+M: melaka
+J: johor
+S: sabah
+E: sarawak
+
+Parliment Constituency Listings
+P1: Padang Besar
+P2: Kangar
+P3: Arau
+P4: Langkawi
+P5: Jerlun
+P6: Kubang Pasu
+P7: Padang Terap
+P8: Pokok Sena
+P9: Alor Setar
+P10: Kuala Kedah
+P11: Pendang
+P12: Jerai
+P13: Sik
+P14: Merbok
+P15: Sungai Petani
+P16: Baling
+P17: Padang Serai
+P18: Kulim Bandar Baharu
+P19: Tumpat
+P20: Pengkalan Chepa
+P21: Kota Bahru
+P22: Pasir Mas
+P23: Rantau Panjang
+P24: Kubang Kerian
+P25: Bachok
+P26: Ketereh
+P27: Tanah Merah
+P28: Pasir Puteh
+P29: Machang
+P30: Jeli
+P31: Kuala Krai
+P32: Gua Musang
+P33: Besut
+P34: Setiu
+P35: Kuala Nerus
+P36: Kuala Terengganu
+P37: Marang
+P38: Hulu Terengganu
+P39: Dungun
+P40: Kemaman
+P41: Kepala Batas
+P42: Tasek Gelugor
+P43: Bagan
+P44: Permatang Pauh
+P45: Bukit Mertajam
+P46: Batu Kawan
+P47: Nibong Tebal
+P48: Bukit Bendera
+P49: Tanjong
+P50: Jelutong
+P51: Bukit Gelugor
+P52: Bayan Baru
+P53: Balik Pulau
+P54: Grik
+P55: Lenggong
+P56: Larut
+P57: Parit Buntar
+P58: Bagan Serai
+P59: Bukit Gantang
+P60: Taiping
+P61: Padang Rengas
+P62: Sungai Siput
+P63: Tambun
+P64: Ipoh Timor
+P65: Ipoh Barat
+P66: Batu Gajah
+P67: Kuala Kangsar
+P68: Beruas
+P69: Parit
+P70: Kampar
+P71: Gopeng
+P72: Tapah
+P73: Pasir Salak
+P74: Lumut
+P75: Bagan Datok
+P76: Telok Intan
+P77: Tanjong Malim
+P78: Cameron Highlands
+P79: Lipis
+P80: Raub
+P81: Jerantut
+P82: Indera Mahkota
+P83: Kuantan
+P84: Paya Besar
+P85: Pekan
+P86: Maran
+P87: Kuala Krau
+P88: Temerloh
+P89: Bentong
+P90: Bera
+P91: Rompin
+P92: Sabak Bernam
+P93: Sungai Besar
+P94: Ulu Selangor
+P95: Tanjong Karang
+P96: Kuala Selangor
+P97: Selayang
+P98: Gombak
+P99: Ampang
+P100: Pandan
+P101: Hulu Langat
+P102: Serdang
+P103: Puchong
+P104: Kelana Jaya
+P105: PJ Selatan
+P106: PJ Utara
+P107: Subang
+P108: Shah Alam
+P109: Kapar
+P110: Klang
+P111: Kota Raja
+P112: Kuala Langat
+P113: Sepang
+P134: Masjid Tanah
+P135: Alor Gajah
+P136: Tangga Batu
+P137: Bukit Katil
+P138: Kota Melaka
+P139: Jasin
+P140: Segamat
+P141: Sekijang
+P142: Labis
+P143: Pagoh
+P144: Ledang
+P145: Bakri
+P146: Muar
+P147: Parit Sulong
+P148: Ayer Hitam
+P149: Sri Gading
+P150: Batu Pahat
+P151: Simpang Renggam
+P152: Kluang
+P153: Sembrong
+P154: Mersing
+P155: Tenggara
+P156: Kota Tinggi
+P157: Pengerang
+P158: Tebrau
+P159: Pasir Gudang
+P160: Johor Bahru
+P161: Pulai
+P162: Gelang Patah
+P163: Kulai
+P164: Pontian
+P165: Tanjung Piai
+P166: Labuan
+P167: Kudat
+P168: Kota Marudu
+P169: Kota Belud
+P170: Tuaran
+P171: Sepanggar
+P172: Kota Kinabalu
+P173: Putatan
+P174: Penampang
+P175: Papar
+P176: Kimanis
+P177: Beaufort
+P178: Sipitang
+P179: Ranau
+P180: Keningau
+P181: Tenom
+P182: Pensiangan
+P183: Beluran
+P184: Libaran
+P185: Batu Sapi
+P186: Sandakan
+P187: Kinabatangan
+P188: Silam
+P189: Semporna
+P190: Tawau
+P191: Kalabakan
+P192: Mas Gading
+P193: Santubong
+P194: Petra Jaya
+P195: Bandar Kuching
+P196: Stampin
+P197: Kota Samarahan
+P198: Mambong
+P199: Serian
+P200: Batang Sadong
+P201: Batang Lupar
+P202: Sri Aman
+P203: Lubok Antu
+P204: Betong
+P205: Saratok
+P206: Kuala Rajang
+P207: Igan
+P208: Sarikei
+P209: Julau
+P210: Kanowit
+P211: Lanang
+P212: Sibu
+P213: Mukah
+P214: Selangau
+P215: Kapit
+P216: Hulu Rajang
+P217: Bintulu
+P218: Sibuti
+P219: Miri
+P220: Baram
+P221: Limbang
+P222: Lawas
+
+State Constituency Listings
+P1: N1: Titi Tinggi
+P1: N2: Beseri
+P1: N3: Chuping
+P1: N4: Mata Ayer
+P1: N5: Santan
+P2: N6: Bintong
+P2: N7: Sena
+P2: N8: Indera Kayangan
+P2: N9: Kuala Perlis
+P2: N10: Kayang
+P3: N11: Pauh
+P3: N12: Tambun Tulang
+P3: N13: Guar Sanji
+P3: N14: Simpang Empat
+P3: N15: Sanglang
+P4: N1: Ayer Hangat
+P4: N2: Kuah
+P5: N3: Kota Siputeh
+P5: N4: Ayer Hitam
+P6: N5: Bukit Kayu Hitam
+P6: N6: Jitra
+P7: N7: Kuala Nerang
+P7: N8: Pedu
+P8: N9: Bukit Lada
+P8: N10: Bukit Pinang
+P8: N11: Derga
+P9: N12: Bakar Bata
+P9: N13: Kota Darulaman
+P9: N14: Alor Mengkudu
+P10: N15: Anak Bukit
+P10: N16: Kubang Rotan
+P10: N17: Pengkalan Kundor
+P11: N18: Tokai
+P11: N19: Sungai Tiang
+P12: N20: Sungai Limau
+P12: N21: Guar Chempedak
+P12: N22: Gurun
+P13: N23: Belantek
+P13: N24: Jeneri
+P14: N25: Bukit Selambau
+P14: N26: Tanjong Dawai
+P15: N27: Pantai Merdeka
+P15: N28: Bakar Arang
+P15: N29: Sidam
+P16: N30: Bayu
+P16: N31: Kupang
+P16: N32: Kuala Ketil
+P17: N33: Merbau Pulas
+P17: N34: Lunas
+P18: N35: Kulim
+P18: N36: Bandar Baharu
+P19: N1: Pengkalan Kubor
+P19: N2: Kelaboran
+P19: N3: Pasir Pekan
+P19: N4: Wakaf Bharu
+P20: N5: Kijang
+P20: N6: Chempaka
+P20: N7: Panchor
+P21: N8: Tanjong Mas
+P21: N9: Kota Lama
+P21: N10: Bunut Payong
+P22: N11: Tendong
+P22: N12: Pengkalan Pasir
+P22: N13: Chetok
+P23: N14: Meranti
+P23: N15: Gual Periok
+P23: N16: Bukit Tuku
+P24: N17: Salor
+P24: N18: Pasir Tumboh
+P24: N19: Demit
+P25: N20: Tawang
+P25: N21: Perupok
+P25: N22: Jelawat
+P26: N23: Melor
+P26: N24: Kadok
+P26: N25: Kok Lanas
+P27: N26: Bukit Panau
+P27: N27: Gual Ipoh
+P27: N28: Kemahang
+P28: N29: Selising
+P28: N30: Limbongan
+P28: N31: Semerak
+P28: N32: Gaal
+P29: N33: Pulai Chondong
+P29: N34: Temangan
+P29: N35: Kemuning
+P30: N36: Bukit Bunga
+P30: N37: Air Lanas
+P30: N38: Kuala Balah
+P31: N39: Mengkebang
+P31: N40: Guchil
+P31: N41: Manek Urai
+P31: N42: Dabong
+P32: N43: Nenggiri
+P32: N44: Paloh
+P32: N45: Galas
+P33: N1: Kuala Besut
+P33: N2: Kota Putera
+P33: N3: Jertih
+P33: N4: Hulu Besut
+P34: N5: Jabi
+P34: N6: Permaisuri
+P34: N7: Langkap
+P34: N8: Batu Rakit
+P35: N9: Tepuh
+P35: N10: Teluk Pasu
+P35: N11: Seberang Takir
+P35: N12: Bukit Tunggal
+P36: N13: Wakaf Mempelam
+P36: N14: Bandar
+P36: N15: Ladang
+P36: N16: Batu Buruk
+P37: N17: Alur Limbat
+P37: N18: Bukit Payung
+P37: N19: Ru Rendang
+P37: N20: Pengkalan Berangan
+P38: N21: Telemung
+P38: N22: Manir
+P38: N23: Kuala Berang
+P38: N24: Ajil
+P39: N25: Bukit Besi
+P39: N26: Rantau Abang
+P39: N27: Sura
+P39: N28: Paka
+P40: N29: Kemasek
+P40: N30: Kijal
+P40: N31: Chukai
+P40: N32: Air Putih
+P41: N1: Penaga
+P41: N2: Bertam
+P41: N3: Pinang Tunggal
+P42: N4: Permatang Berangan
+P42: N5: Sungai Dua
+P42: N6: Teluk Ayer Tawar
+P43: N7: Sungai Puyu
+P43: N8: Bagan Jermal
+P43: N9: Bagan Dalam
+P44: N10: Seberang Jaya
+P44: N11: Permatang Pasir
+P44: N12: Penanti
+P45: N13: Berapit
+P45: N14: Machang Bubok
+P45: N15: Padang Lalang
+P46: N16: Perai
+P46: N17: Bukit Tengah
+P46: N18: Bukit Tambun
+P47: N19: Jawi
+P47: N20: Sungai Bakap
+P47: N21: Sungai Acheh
+P48: N22: Tanjong Bunga
+P48: N23: Air Putih
+P48: N24: Kebun Bunga
+P48: N25: Pulau Tikus
+P49: N26: Padang Kota
+P49: N27: Pengkalan Kota
+P49: N28: Komtar
+P50: N29: Datok Keramat
+P50: N30: Sungai Pinang
+P50: N31: Batu Lancang
+P51: N32: Seri Delima
+P51: N33: Air Itam
+P51: N34: Paya Terubong
+P52: N35: Batu Uban
+P52: N36: Pantai Jerejak
+P52: N37: Batu Maung
+P53: N38: Bayan Lepas
+P53: N39: Pulau Betong
+P53: N40: Telok Bahang
+P54: N1: Pengkalan Hulu
+P54: N2: Temegor
+P55: N3: Kenering
+P55: N4: Kota Tampan
+P56: N5: Selama
+P56: N6: Kubu Gajah
+P56: N7: Batu Kurau
+P57: N8: Titi Serong
+P57: N9: Kuala Kurau
+P58: N10: Alor Pongsu
+P58: N11: Gunong Semanggol
+P58: N12: Selinsing
+P59: N13: Kuala Sapetang
+P59: N14: Changkat Jering
+P59: N15: Trong
+P60: N16: Kamunting
+P60: N17: Pokok Assam
+P60: N18: Aulong
+P61: N19: Chenderoh
+P61: N20: Lubok Merbau
+P62: N21: Lintang
+P62: N22: Jalong
+P63: N23: Manjoi
+P63: N24: Hulu Kinta
+P64: N25: Canning
+P64: N26: Tebing Tinggi
+P64: N27: Pasir Pinji
+P65: N28: Bercham
+P65: N29: Kepayang
+P65: N30: Buntong
+P66: N31: Jelapang
+P66: N32: Menglembu
+P66: N33: Tronoh
+P67: N34: Bukit Chandan
+P67: N35: Manong
+P68: N36: Pengkalan Baru
+P68: N37: Pantai Remis
+P69: N38: Belanja
+P69: N39: Bota
+P70: N40: Malim Nawar
+P70: N41: Keranji
+P70: N42: Tualang Sekah
+P71: N43: Sungai Rapat
+P71: N44: Simpang Pulai
+P71: N45: Teja
+P72: N46: Chenderiang
+P72: N47: Ayer Kuning
+P73: N48: Sungei Manik
+P73: N49: Kampong Gajah
+P74: N50: Sitiawan
+P74: N51: Pasir Panjang
+P74: N52: Pangkor
+P75: N53: Rungkup
+P75: N54: Hutan Melintang
+P76: N55: Pasir Bedemar
+P76: N56: Changkat Jong
+P77: N57: Sungkai
+P77: N58: Slim
+P77: N59: Behrang
+P78: N1: Tanah Rata
+P78: N2: Jelai
+P79: N3: Padang Tengku
+P79: N4: Ceka
+P79: N5: Benta
+P80: N6: Batu Talam
+P80: N7: Teras
+P80: N8: Dong
+P81: N9: Tahan
+P81: N10: Damak
+P81: N11: Pulau Tawar
+P82: N12: Beserah
+P82: N13: Semambu
+P83: N14: Teruntum
+P83: N15: Tanjung Lumpur
+P83: N16: Inderapura
+P84: N17: Sungai Lembing
+P84: N18: Lepar
+P84: N19: Panching
+P85: N20: Pulau Manis
+P85: N21: Peramu Jaya
+P85: N22: Bebar
+P85: N23: Cini
+P86: N24: Luit
+P86: N25: Kuala Sentul
+P86: N26: Cenur
+P87: N27: Jenderak
+P87: N28: Kerdau
+P87: N29: Jengka
+P88: N30: Mentakab
+P88: N31: Lancang
+P88: N32: Kuala Semantan
+P89: N33: Bilut
+P89: N34: Ketari
+P89: N35: Sabai
+P89: N36: Pelangai
+P90: N37: Guai
+P90: N38: Teriang
+P90: N39: Kemayan
+P91: N40: Bukit Ibam
+P91: N41: Muadzam Shah
+P91: N42: Tioman
+P92: N1: Sungai Ayer Tawar
+P92: N2: Sabak
+P93: N3: Sungai Panjang
+P93: N4: Sekinchan
+P94: N5: Ulu Bernam
+P94: N6: Kuala Kubu Bahru
+P94: N7: Batang Kali
+P95: N8: Sungai Burong
+P95: N9: Permatang
+P96: N10: Bukit Melawati
+P96: N11: Ijok
+P96: N12: Jeram
+P97: N13: Kuang
+P97: N14: Rawang
+P97: N15: Taman Templar
+P98: N16: Batu Caves
+P98: N17: Gombak Setia
+P98: N18: Ulu Kelang
+P99: N19: Bukit Antarabangsa
+P99: N20: Lembah Jaya
+P100: N21: Cempaka
+P100: N22: Teratai
+P101: N23: Dusun Tua
+P101: N24: Semenyih
+P101: N25: Kajang
+P102: N26: Bangi
+P102: N27: Balakong
+P102: N28: Sri Kembangan
+P103: N29: Sri Serdang
+P103: N30: Kinrara
+P104: N31: Subang Jaya
+P104: N32: Seri Setia
+P105: N33: Taman Medan
+P105: N34: Bukit Gasing
+P106: N35: Kampung Tunku
+P106: N36: Damansara Utama
+P107: N37: Bukit Lanjan
+P107: N38: Paya Jaras
+P107: N39: Kota Damansara
+P108: N40: Kota Anggerik
+P108: N41: Batu Tiga
+P109: N42: Meru
+P109: N43: Sementa
+P109: N44: Sungai Pinang
+P109: N45: Selat Klang
+P110: N46: Pelabuhan Klang
+P110: N47: Pandamaran
+P110: N48: Kota Alam Shah
+P111: N49: Seri Andalas
+P111: N50: Sri Muda
+P112: N51: Sijangkang
+P112: N52: Teluk Datuk
+P112: N53: Morib
+P113: N54: Tanjong Sepat
+P113: N55: Dengkil
+P113: N56: Sungai Pelek
+P134: N1: Kuala Linggi
+P134: N2: Tanjong Bidara
+P134: N3: Ayer Limau
+P134: N4: Lendu
+P134: N5: Taboh Naning
+P135: N6: Rembia
+P135: N7: Gadek
+P135: N8: Machap
+P135: N9: Durian Tunggal
+P135: N10: Asahan
+P136: N11: Sungai Udang
+P136: N12: Pantai Kundor
+P136: N13: Paya Rumput
+P136: N14: Kelebang
+P137: N15: Bachang
+P137: N16: Ayer Keroh
+P137: N17: Bukit Baru
+P137: N18: Ayer Molek
+P138: N19: Kesidang
+P138: N20: Kota Laksamana
+P138: N21: Duyong
+P138: N22: Bandar Hilir
+P138: N23: Telok Mas
+P139: N24: Bemban
+P139: N25: Rim
+P139: N26: Serkam
+P139: N27: Merlimau
+P139: N28: Sungai Rambai
+P140: N1: Buloh Kasap
+P140: N2: Jemetah
+P141: N3: Pemanis
+P141: N4: Kemelah
+P142: N5: Tenang
+P142: N6: Bekok
+P143: N7: Bukit Serampang
+P143: N8: Jorak
+P144: N9: Gambir
+P144: N10: Tangkak
+P144: N11: Serom
+P145: N12: Bentayan
+P145: N13: Sungai Abong
+P145: N14: Bukit Naning
+P146: N15: Maharani
+P146: N16: Sungai Balang
+P147: N17: Semerah
+P147: N18: Sri Medan
+P148: N19: Yong Peng
+P148: N20: Semarang
+P149: N21: Parit Yaani
+P149: N22: Parit Raja
+P150: N23: Penggaram
+P150: N24: Senggarang
+P150: N25: Rengit
+P151: N26: Macap
+P151: N27: Layang-Layang
+P152: N28: Mengkibol
+P152: N29: Mahkota
+P153: N30: Paloh
+P153: N31: Kahang
+P154: N32: Endau
+P154: N33: Tenggaroh
+P155: N34: Panti
+P155: N35: Pasir Raja
+P156: N36: Sedili
+P156: N37: Johor Lama
+P157: N38: Penawar
+P157: N39: Tanjong Surat
+P158: N40: Tiram
+P158: N41: Puteri Wangsa
+P159: N42: Johor Jaya
+P159: N43: Permas
+P160: N44: Tanjong Puteri
+P160: N45: Stulang
+P161: N46: Pengkalan Rinting
+P161: N47: Kempas
+P162: N48: Skudai
+P162: N49: Nusa Jaya
+P163: N50: Bukit Permai
+P163: N51: Bukit Batu
+P163: N52: Senai
+P164: N53: Benut
+P164: N54: Pulai Sebatang
+P165: N55: Pekan Nenas
+P165: N56: Kukup
+P167: N1:  Banggi 
+P167: N2:  Tanjong Kapar 
+P167: N3:  Pitas 
+P168: N4:  Matunggong 
+P168: N5:  Tandek 
+P169: N6:  Tempasuk 
+P169: N7:  Kadamaian 
+P169: N8:  Usukan 
+P170: N9:  Tamparuli 
+P170: N10:  Sulaman 
+P170: N11:  Kiulu 
+P171: N12:  Karambunai 
+P171: N13:  Inanam 
+P172: N14:  Likas 
+P172: N15:  Api-Api 
+P172: N16:  Luyang 
+P173: N17:  Tanjong Aru 
+P173: N18:  Petagas 
+P174: N19:  Kapayan 
+P174: N20:  Moyog 
+P175: N21:  Kawang 
+P175: N22:  Pantai Manis 
+P176: N23:  Bongawan 
+P176: N24:  Membakut 
+P177: N25:  Klias 
+P177: N26:  Kuala Penyu 
+P178: N27:  Lumadan 
+P178: N28:  Sindumin 
+P179: N29:  Kundasang 
+P179: N30:  Karanaan 
+P179: N31:  Paginatan 
+P180: N32:  Tambunan 
+P180: N33:  Bingkor 
+P180: N34:  Liawan 
+P181: N35:  Melalap 
+P181: N36:  Kemabong 
+P182: N37:  Sook 
+P182: N38:  Nabawan 
+P183: N39:  Sugut 
+P183: N40:  Labuk 
+P184: N41:  Gum-Gum 
+P184: N42:  Sungai Sibuga 
+P185: N43:  Sekong 
+P185: N44:   Karamunting 
+P186: N45:  Elopura 
+P186: N46:  Tanjong Papat 
+P187: N47:  Kuamut 
+P187: N48:  Sukau 
+P188: N49:  Tungku 
+P188: N50:  Lahad Datu 
+P188: N51:  Kunak 
+P189: N52:  Sulabayan 
+P189: N53:  Senalingan 
+P189: N54:  Bugaya 
+P190: N55:  Balung 
+P190: N56:  Apas 
+P190: N57:  Sri Tanjong 
+P191: N58:  Merotai 
+P191: N59:  Tanjong Batu 
+P191: N60:  Sebatik 
+P192: N1: Opar
+P192: N2: Tasik Biru
+P193: N3: Tanjong Datu
+P193: N4: Pantai Damai
+P193: N5: Demak Laut
+P194: N6: Tupong
+P194: N7: Samariang
+P194: N8: Satok
+P195: N9: Padungan
+P195: N10: Pending
+P196: N11: Batu Lintang
+P196: N12: Kota Sentosa
+P196: N13: Batu Kawah
+P197: N14: Asajaya
+P197: N15: Muara Tuang
+P198: N16: Bengoh
+P198: N17: Tarat
+P199: N18: Tebedu
+P199: N19: Kedup
+P200: N20: Sadong Jaya
+P200: N21: Simunjan
+P201: N22: Sebuyau
+P201: N23: Lingga
+P201: N24: Beting Maro
+P202: N25: Balai Ringin
+P202: N26: Bukit Begunan
+P202: N27: Simanggang
+P203: N28: Engkilili
+P203: N29: Batang Air
+P204: N30: Saribas
+P204: N31: Layar
+P204: N32: Bukit Saban
+P205: N33: Kalaka
+P205: N34: Krian
+P206: N35: Belawai
+P206: N36: Semop
+P207: N37: Daro
+P207: N38: Jemoreng
+P208: N39: Repok
+P208: N40: Meradong
+P209: N41: Pakan
+P209: N42: Meluan
+P210: N43: Ngemah
+P210: N44: Machan
+P211: N45: Bukit Assek
+P211: N46: Dudong
+P212: N47: Bawang Assan
+P212: N48: Pelawan
+P212: N49: Nangka
+P213: N50: Dalat
+P213: N51: Balingian
+P214: N52: Tamin
+P214: N53: Kakus
+P215: N54: Pelagus
+P215: N55: Katibas
+P216: N56: Baleh
+P216: N57: Belaga
+P217: N58: Jepak
+P217: N59: Kidurong
+P217: N60: Kemena
+P218: N61: Bekenu
+P218: N62: Lambir
+P219: N63: Piasau
+P219: N64: Pujut
+P219: N65: Senadin
+P220: N66: Marudi
+P220: N67: Telang Usan
+P221: N68: Batu Kota
+P221: N69: Batu Danau
+P222: N71: Bukit Sari
