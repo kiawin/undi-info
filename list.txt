@@ -128,6 +128,26 @@ P110: Klang
 P111: Kota Raja
 P112: Kuala Langat
 P113: Sepang
+P114: Kepong
+P115: Batu
+P116: Wangsa Maju
+P117: Segambut
+P118: Setiawangsa
+P119: Titiwangsa
+P120: Bukit Bintang
+P121: Lembah Pantai
+P122: Seputeh
+P123: Cheras
+P124: Bandar Tun Razak
+P125: Putrajaya
+P126: Jelebu
+P127: Jempol
+P128: Seremban
+P129: Kuala Pilah
+P130: Rasah
+P131: Rembau
+P132: Teluk Kemang
+P133: Tampin
 P134: Masjid Tanah
 P135: Alor Gajah
 P136: Tangga Batu
@@ -544,6 +564,42 @@ P112: N53: Morib
 P113: N54: Tanjong Sepat
 P113: N55: Dengkil
 P113: N56: Sungai Pelek
+P126: N1: Chennah
+P126: N2: Pertang
+P126: N3: Sungai Lui
+P126: N4: Klawang
+P127: N5: Serting
+P127: N6: Palong
+P127: N7: Jeram Padang
+P127: N8: Bahau
+P128: N9: Lenggeng
+P128: N10: Nilai
+P128: N11: Lobak
+P128: N12: Temiang
+P128: N13: Sikamat
+P128: N14: Ampangan
+P129: N15: Juasseh
+P129: N16: Seri Menanti
+P129: N17: Senaling
+P129: N18: Pilah
+P129: N19: Johol
+P130: N20: Labu
+P130: N21: Bukit Kepayang
+P130: N22: Rahang
+P130: N23: Mambau
+P130: N24: Senawang
+P131: N25: Paroi
+P131: N26: Chembong
+P131: N27: Rantau
+P131: N28: Kota
+P132: N29: Chuah
+P132: N30: Lukut
+P132: N31: Bagan Pinang
+P132: N32: Linggi
+P132: N33: Port Dickson
+P133: N34: Gemas
+P133: N35: Gemencheh
+P133: N36: Repah
 P134: N1: Kuala Linggi
 P134: N2: Tanjong Bidara
 P134: N3: Ayer Limau

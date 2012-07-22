@@ -25,7 +25,7 @@ for link in links:
 parliment_places = []
 parliment_codes = []
 
-for state in state_names:
+for state in state_slugs:
 	path = "div#parl_listing div.content ul li.negeri_p_"+state+"_li a"
 	links = html.cssselect(path)
 	for link in links:
@@ -36,7 +36,7 @@ for state in state_names:
 state_places = []
 state_codes = []
 
-for state in state_names:
+for state in state_slugs:
 	path = "div#state_listing div.content ul li.negeri_n_"+state+"_li a"
 	links = html.cssselect(path)
 	for link in links:
