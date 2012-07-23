@@ -21,16 +21,16 @@ for link in links:
 	state_slugs.append(link.attrib.get('slug'))
 	state_plates.append(link.attrib.get('plate'))
 
-#Parliment Constituency Listings
-parliment_places = []
-parliment_codes = []
+#Parliament Constituency Listings
+parliament_places = []
+parliament_codes = []
 
 for state in state_slugs:
 	path = "div#parl_listing div.content ul li.negeri_p_"+state+"_li a"
 	links = html.cssselect(path)
 	for link in links:
-		parliment_places.append(link.cssselect("span.place")[0].text)
-		parliment_codes.append(link.cssselect("span.code")[0].text)
+		parliament_places.append(link.cssselect("span.place")[0].text)
+		parliament_codes.append(link.cssselect("span.code")[0].text)
 
 #State Constituency Listings
 state_places = []
@@ -53,10 +53,10 @@ for i in range(total_states):
 
 
 print ""	
-print "Parliment Constituency Listings"
-total_parliment_places = len(parliment_places)
-for i in range(total_parliment_places):
-	print parliment_codes[i]+": "+parliment_places[i]
+print "Parliament Constituency Listings"
+total_parliament_places = len(parliament_places)
+for i in range(total_parliament_places):
+	print parliament_codes[i]+": "+parliament_places[i]
 
 
 print ""
