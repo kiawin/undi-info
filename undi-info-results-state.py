@@ -50,7 +50,7 @@ for state_code in state_codes:
 			party_name = party_list.cssselect("div.party_name")[0].text
 			candidate_name = party_list.cssselect("div.cand_name")[0].text
 			votes = votes.replace(',','')
+			if candidate_name == 'Uncontested' or party_name is None:
+				party_name = 'None';
 			print state_code.replace(': ', ',')+','+year_code+','+candidate_name+','+party_name+','+votes
 	print ''
-
-#Temporary output
