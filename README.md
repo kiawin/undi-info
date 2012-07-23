@@ -21,11 +21,15 @@ $ ./undi-info.py > list.txt
 
 Retrieve Parliment Election Results
 
+CSV: parliament-code,election-year,name,party,votes
+
 ````bash
-$ ./undi-info-results-parliment.py > parliment.txt
+$ ./undi-info-results-parliment.py > parliment.csv
 ````
 
 Retrieve State Election Results
 
+CSV: parliament-code,state-code,election-year,name,party,votes
+
 ````bash
-$ ./undi-info-results-state.py > state.txt
+$ ./undi-info-results-state.py > state.csv
